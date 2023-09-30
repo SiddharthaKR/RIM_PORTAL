@@ -1,0 +1,78 @@
+{
+	"sampleData": {
+		"sample": [
+			{
+				"id": "1",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"owned-by": "Coding club",
+				"quantity": "1",
+				"requestStatus": "Approved",
+				"description": "HP Monitor Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "2",
+				"item-name": "Router",
+				"category": "Minor Equipment",
+				"owned-by": "Robotics Club",
+				"quantity": "1",
+				"requestStatus": "Pending",
+				"description": "Router Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "3",
+				"item-name": "Benq Monitor",
+				"category": "Major Eqipment",
+				"owned-by": "4i Labs",
+				"quantity": "1",
+				"requestStatus": "Approved",
+				"description": "Benq Monitor Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "4",
+				"item-name": "HC Verma",
+				"category": "Book",
+				"owned-by": "4i Labs",
+				"quantity": "2",
+				"requestStatus": "Pending",
+				"description": "HC Verma Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "5",
+				"item-name": "Chairs",
+				"category": "Furniture",
+				"owned-by": "Coding club",
+				"quantity": "3",
+				"requestStatus": "Declined",
+				"description": "Chairs Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "6",
+				"item-name": "Table",
+				"category": "Furniture",
+				"owned-by": "Electronics club",
+				"quantity": "1",
+				"requestStatus": "Declined",
+				"description": "Table Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			}
+		]
+	}
+}

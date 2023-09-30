@@ -1,0 +1,84 @@
+{
+	"sampleData": {
+		"sample": [
+			{
+				"id": "1",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"requested-by": "Electronics club",
+				"quantity": "3",
+				"duration": "02/01/2023 - 04/01/2023",
+				"requestStatus": "Approved",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "2",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"requested-by": "Electronics club",
+				"quantity": "3",
+				"duration": "02/01/2023 - 04/01/2023",
+				"requestStatus": "Pending",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "3",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"requested-by": "Electronics club",
+				"quantity": "3",
+				"duration": "02/01/2023 - 04/01/2023",
+				"requestStatus": "Approved",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "4",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"requested-by": "Electronics club",
+				"quantity": "3",
+				"duration": "02/01/2023 - 04/01/2023",
+				"requestStatus": "Pending",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "5",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"requested-by": "Electronics club",
+				"quantity": "3",
+				"duration": "02/01/2023 - 04/01/2023",
+				"requestStatus": "Declined",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			},
+			{
+				"id": "6",
+				"item-name": "HP Monitor",
+				"category": "Major Equipment",
+				"requested-by": "Electronics club",
+				"quantity": "3",
+				"duration": "02/01/2023 - 04/01/2023",
+				"requestStatus": "Declined",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus purus eu nulla hendrerit sodales. Donec non libero enim. Nunc egestas neque a fermentum volutpat.",
+				"timeOfRequest": "3:04pm - 02/01/2023",
+				"inTime": "3:04pm - 02/01/2023",
+				"outTime": "3:04pm - 02/01/2023"
+			}
+		]
+	}
+}
