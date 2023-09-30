@@ -14,7 +14,7 @@ const itemRouter = require("./routes/itemRoutes.js");
 const requestRouter = require("./routes/requestRoutes.js");
 const mongoose = require("mongoose");
 const URI =
-	`mongodb+srv://cc-rim-portal:yFKI00xcm00W4qPT@cluster0.ipm9jh9.mongodb.net/?retryWrites=true&w=majority`;
+	``;
 app.use(bodyParser.json());
 
 const port = 8080;
